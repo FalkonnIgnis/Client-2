@@ -21,14 +21,14 @@ on the priceier side a GTX 1070/1070 TI
 preferably an intelcore i7 or higher
 but a Ryzen 5 1400($200 from mikes computer shop) will run high settings.
 
-Crucial 8GB 288-Pin DDR4 SDRAM DDR4 2400 for Ram.
+Crucial 8GB 288-Pin DDR4 SDRAM DDR4 2400($104.99) for Ram.
 
 Deepcool Gammaxx 400 for the HSF($25)
 
-ASrock AB350 Pro4 or a ASUS Prime Z370-A LGA 1151/ASRock Z370 Killer SLI/ac LGA 1151
+ASrock AB350 Pro4($109.05) or a ASUS Prime Z370-A LGA 1151/ASRock Z370 Killer SLI/ac LGA 1151
 for a bit pricier but better preformance.
 
-Seagate BarraCuda ST1000DM010 1TB  should work.
+Seagate BarraCuda ST1000DM010 1TB($54 from newegg)  should work for memory.
 
 NZXT - Source 530 ATX Full Tower Case($99 from Newegg) will suit your needs for a case.
 
@@ -42,4 +42,9 @@ SeaSonic - EVO Edition 620W 80+ Bronze Certified Fully-Modular ATX Power Supply(
  
  Redragon K552 LED Mechanical Keyboard($40 from amazon)
  
- Windows 10 home os($113 from Vuugo)
+ Linux (free)
+ 
+ The best server would be client server.
+ 
+Total price per computer = $1457
+Total price = $7285
