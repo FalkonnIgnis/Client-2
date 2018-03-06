@@ -44,7 +44,7 @@ SeaSonic - EVO Edition 620W 80+ Bronze Certified Fully-Modular ATX Power Supply(
  
  Linux (free)
  
- The best server would be client server.
+ The best server would be client server with bus topology.
  
 Total price per computer = $1457
 Total price = $7285
