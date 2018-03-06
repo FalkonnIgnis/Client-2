@@ -48,3 +48,5 @@ SeaSonic - EVO Edition 620W 80+ Bronze Certified Fully-Modular ATX Power Supply(
  
 Total price per computer = $1457<br>
 Total price = $7285
+
+<p><a href="https://falkonnignis.github.io/Client-2/Client%202%20proposal.html">Proposal</a></p>
