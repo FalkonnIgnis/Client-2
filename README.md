@@ -16,16 +16,16 @@ needs a network storage.
 
 
 Graphics card: should be at least a ASUS GeForce GTX 1060 3GB Phoenix Fan($531 on amazon) or as powerful,
-on the priceier side a GTX 1070/1070 TI
+on the priceier side a GTX 1070($440 from Nvidia)
 
-preferably an intelcore i7 or higher
+An intelcore i7($390 at Amazon) if you are willing to spend more
 but a Ryzen 5 1400($200 from mikes computer shop) will run high settings.
 
 Crucial 8GB 288-Pin DDR4 SDRAM DDR4 2400($104.99) for Ram.
 
 Deepcool Gammaxx 400 for the HSF($25)
 
-ASrock AB350 Pro4($109.05) or a ASUS Prime Z370-A LGA 1151/ASRock Z370 Killer SLI/ac LGA 1151
+ASrock AB350 Pro4($109.05) or a ASUS Prime Z370-A LGA 1151($300)
 for a bit pricier but better preformance.
 
 Seagate BarraCuda ST1000DM010 1TB($54 from newegg)  should work for memory.
@@ -33,7 +33,8 @@ Seagate BarraCuda ST1000DM010 1TB($54 from newegg)  should work for memory.
 NZXT - Source 530 ATX Full Tower Case($99 from Newegg) will suit your needs for a case.
 
 SeaSonic - EVO Edition 620W 80+ Bronze Certified Fully-Modular ATX Power Supply($85 from Newegg) for a power supply 
-
+or a CORSAIR CS-M Series CS650M 650W 80 PLUS GOLD Active PFC Haswell Ready ATX12V & EPS12V Semi-Modular($110 newegg) 
+ 
  logitech g600($60 from amazon) for mouse
  
  Asus Xonar GHX PCIe GX2.5($50 from Vuugo or PC-Canada) for soundcard.
